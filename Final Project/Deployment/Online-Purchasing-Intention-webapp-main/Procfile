@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Online_Purchasing_Intention.py
